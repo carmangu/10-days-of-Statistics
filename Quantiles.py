@@ -3,7 +3,7 @@
 """
 Created on Sun Jul  8 13:23:34 2018
 
-@author: Jingwen
+@author: Issac Noodle 
 
 # question 
 https://www.hackerrank.com/challenges/s10-quartiles/problem
